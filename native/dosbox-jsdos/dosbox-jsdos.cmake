@@ -19,6 +19,7 @@ include_directories(
         "${CMAKE_CURRENT_LIST_DIR}/jsdos/include"
         "${CMAKE_CURRENT_LIST_DIR}/../dosbox/include"
         "${CMAKE_CURRENT_LIST_DIR}/../dosbox"
+        "/usr/include/SDL"
 )
 
 set(SOURCES_CORE_CXX11
