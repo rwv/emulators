@@ -95,7 +95,7 @@
 #define C_SDLGFX 1
 
 /* Define to 1 to enable SDL_sound support */
-/* #undef C_SDL_SOUND */
+#define C_SDL_SOUND 1
 
 /* Define to 1 if you have setpriority support */
 #define C_SET_PRIORITY 1
